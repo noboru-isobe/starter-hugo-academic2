@@ -8,7 +8,7 @@ last_name: Isobe
 
 # Status emoji
 status:
-  icon: 
+  icon: 🍰
 
 # Is this the primary user of the site?
 superuser: true
@@ -36,15 +36,15 @@ education:
     - course: PhD in Mathematics
       institution: University of Tokyo
       year: 2022
-<!--       supervisor: [Norikazu Saito](http://www.infsup.jp/saito/) -->
+      supervisor: [Norikazu Saito](http://www.infsup.jp/saito/)
     - course: MEng in Informatics
       institution: University of Tokyo
       year: 2020
-<!--       supervisor: [Takayasu Matsuo](http://www.sr3.t.u-tokyo.ac.jp/matsuo/) -->
+      supervisor: [Takayasu Matsuo](http://www.sr3.t.u-tokyo.ac.jp/matsuo/)
     - course: BSc in Engineering
       institution: University of Tokyo
       year: 2016
-<!--       supervisor: [Katsuhiro Nishinari](https://park.itc.u-tokyo.ac.jp/tknishi/) -->
+      supervisor: [Katsuhiro Nishinari](https://park.itc.u-tokyo.ac.jp/tknishi/)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,7 +71,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'nobo0409@g.ecc.u-tokyo.ac.jp'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
