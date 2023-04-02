@@ -36,12 +36,15 @@ education:
     - course: PhD in Mathematics
       institution: University of Tokyo
       year: 2022
+      supervisor: [Norikazu Saito](http://www.infsup.jp/saito/)
     - course: MEng in Informatics
       institution: University of Tokyo
       year: 2020
+      supervisor: [Takayasu Matsuo](http://www.sr3.t.u-tokyo.ac.jp/matsuo/)
     - course: BSc in Engineering
       institution: University of Tokyo
       year: 2016
+      supervisor: [Katsuhiro Nishinari](https://park.itc.u-tokyo.ac.jp/tknishi/)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,14 +54,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
