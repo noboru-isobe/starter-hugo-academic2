@@ -6,10 +6,6 @@ title: Nobor Isobe 磯部伸
 first_name: Noboru
 last_name: Isobe
 
-# Status emoji
-status:
-  icon: 🍰
-
 # Is this the primary user of the site?
 superuser: true
 
