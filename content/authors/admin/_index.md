@@ -32,15 +32,21 @@ education:
     - course: PhD in Mathematics
       institution: University of Tokyo
       year: 2022
-      supervisor: [Norikazu Saito](http://www.infsup.jp/saito/)
+      supervisor: 
+        - name: Norikazu Saito
+          url: http://www.infsup.jp/saito/
     - course: MEng in Informatics
       institution: University of Tokyo
       year: 2020
-      supervisor: [Takayasu Matsuo](http://www.sr3.t.u-tokyo.ac.jp/matsuo/)
+      supervisor: 
+      - name: Takayasu Matsuo
+        url: http://www.sr3.t.u-tokyo.ac.jp/matsuo/
     - course: BSc in Engineering
       institution: University of Tokyo
       year: 2016
-      supervisor: [Katsuhiro Nishinari](https://park.itc.u-tokyo.ac.jp/tknishi/)
+      supervisor: 
+        - name: Katsuhiro Nishinari
+          url: https://park.itc.u-tokyo.ac.jp/tknishi/
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
