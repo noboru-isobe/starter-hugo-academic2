@@ -2,6 +2,8 @@
 title: Writing technical content in Markdown
 date: 2019-07-12
 math: true
+# Is this an unpublished draft?
+draft: true
 ---
 
 Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
