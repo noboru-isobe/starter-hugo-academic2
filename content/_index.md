@@ -12,7 +12,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
+<!--   - block: features
     content:
       title: Skills
       items:
@@ -23,7 +23,7 @@ sections:
         - name: Statistics
           description: 100%
           icon: chart-line
-          icon_pack: fas
+          icon_pack: fas -->
   - block: collection
     id: posts
     content:
