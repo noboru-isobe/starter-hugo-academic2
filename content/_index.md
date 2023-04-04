@@ -83,7 +83,6 @@ sections:
         postcode: '153-8914'
         country: Japan
         country_code: JP
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # Automatically link email and phone or display as text?
       autolink: true
     design:
