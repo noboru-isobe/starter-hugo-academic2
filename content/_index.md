@@ -77,8 +77,8 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: nobo0409@g.ecc.u-tokyo.ac.jp
       address:
-        street: 3-8-1 Komaba
-        city: Meguro
+        street: Room 557, Graduate School of Mathematical Sciences, The University of Tokyo, 3-8-1 Komaba
+        city: Meguro, Tokyo
         prefecture: Tokyo
         postcode: '153-8914'
         country: Japan
