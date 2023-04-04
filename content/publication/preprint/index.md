@@ -24,7 +24,8 @@ abstract: This paper presents a mathematical analysis of ODE-Net, a continuum mo
 summary: This paper gives formulation and justification of Deep Learning from the continuous view point.
 
 tags:
-- Source Themes
+- ODE-Net
+- Calculus of Variations & Optimal Control
 featured: false
 
 links:
