@@ -74,18 +74,15 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: nobo0409@g.ecc.u-tokyo.ac.jp
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 3-8-1 Komaba
+        city: Meguro
+        prefecture: Tokyo
+        postcode: '153-8914'
+        country: Japan
+        country_code: JP
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # Automatically link email and phone or display as text?
       autolink: true
