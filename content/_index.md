@@ -75,7 +75,7 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-      email: nobo0409@g.ecc.u-tokyo.ac.jp
+      email: nobo0409[at]g.ecc.u-tokyo.ac.jp
       address:
         street: Room 557, Graduate School of Mathematical Sciences, The University of Tokyo, 3-8-1 Komaba
         city: Meguro, Tokyo
