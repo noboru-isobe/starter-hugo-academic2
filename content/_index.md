@@ -36,7 +36,7 @@ sections:
     design:
       columns: '2'
       view: compact
-    - block: collection
+  - block: collection
     id: posts
     content:
       title: Recent Posts
@@ -63,7 +63,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-    - block: portfolio
+  - block: portfolio
     id: projects
     content:
       title: Projects
@@ -90,11 +90,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
