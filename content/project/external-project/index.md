@@ -1,5 +1,5 @@
 ---
-title: JSPS Research Fellowship for Young Scientists, DC1 (No. 15J07471) 
+title: JSPS Research Fellowship for Young Scientists, DC1 (KAKENHI No. 22J20130)
 summary: Noboru Isobe is receiving financial support from JSPS (Japan Society for the Promotion of Science) from April 2022 to March 2025.
 tags:
   - JSPS
