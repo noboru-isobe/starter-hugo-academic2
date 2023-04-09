@@ -82,17 +82,17 @@ sections:
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
+      columns: '2'
+      view: compact
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      # flip_alt_rows: false
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-      # Contact (add or remove contact options as necessary)
+      # Contact (add or remove contact options as necessary) 
       email: nobo0409[at]g.ecc.u-tokyo.ac.jp
       address:
         street: Room 557, Graduate School of Mathematical Sciences, The University of Tokyo, 3-8-1 Komaba
