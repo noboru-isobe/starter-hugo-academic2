@@ -34,12 +34,12 @@ links:
   url: https://arxiv.org/abs/2303.05924
 url_pdf: https://arxiv.org/pdf/2303.05924.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 
 # Slides (optional).
