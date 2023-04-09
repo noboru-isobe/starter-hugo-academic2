@@ -2,8 +2,9 @@
 title: "Variational formulations of ODE-Net as a mean-field optimal control problem and existence results"
 authors:
 - admin
+- Mizuho Okumura
 date: "2022-03-09T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.48550/arXiv.2303.05924"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-03-09T00:00:00Z"
