@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Noboru Isobe's website # Website name
-baseURL: 'https://noboru-isobe.netlify.app/' # Website URL
+baseURL: 'https://noboru-isobe.' # Website URL
 
 ############################
 ## LANGUAGE
