@@ -13,7 +13,7 @@ address:
   country: Japan
 
 summary: Noboru Isobe will give a contributed presentation in poster format.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'The poster discusses a mathematical analysis of a deep neural network model called ODE-Net, where learning is formulated as an optimal control problem. The existence of an optimizer for this problem needs to be assumed to justify the learning, but few studies have analyzed this in detail. We proves the existence of an optimizer when a neural network, which describes a vector field of ODE-Net, is linear with respect to learnable parameters.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
