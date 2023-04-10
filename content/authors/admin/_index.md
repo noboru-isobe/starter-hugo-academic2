@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Noboru Isobe
+title: Nobor Isobe 磯部伸
 
 # Full name (for SEO)
 first_name: Noboru
