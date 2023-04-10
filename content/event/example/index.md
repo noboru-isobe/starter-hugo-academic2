@@ -21,8 +21,6 @@ date: '2023-08-20T13:00:00Z'
 date_end: '2023-08-25T15:00:00Z'
 all_day: false
 
-# Schedule page publish date (NOT talk date).
-publishDate: '2023-04-10T00:00:00Z'
 
 authors: admin
 tags: 
