@@ -11,6 +11,9 @@ appearance:
   font: minimal
   font_size: L
 
+# Authors
+authors = ["admin"]
+
 # SEO
 
 marketing:
