@@ -12,7 +12,8 @@ appearance:
   font_size: L
 
 # Authors
-authors: ["admin"]
+authors: 
+  -admin
 
 # SEO
 
